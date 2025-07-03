@@ -68,7 +68,7 @@ Key challenges included file management and ensuring data was sorted chronologic
 ## 📂 Repository Contents
 
 - `TikTok_Raw_Data_Tracker Updated.xlsx`: Excel dataset with raw and processed metrics  
-- `TikTok_Live_Data_Analysis.ipynb`: Jupyter Notebook with Python code, analysis, and visualizations    
+- `TikTok_Live_Data_Analysis -Python.html`: Created in a Jupyter Notebook with Python code, analysis, and visualizations (uploaded as a .html)   
 - `README.md`: This project overview and explanation
 
 ---
