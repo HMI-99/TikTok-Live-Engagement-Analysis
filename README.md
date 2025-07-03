@@ -48,11 +48,12 @@ Key challenges included file management and ensuring data was sorted chronologic
 
 ## Key Insights and Summary of Findings 📈
 
-- TikTok Live views showed a steady upward trend from April through June 2025, with notable spikes on specific dates linked to popular content themes.
-- Engagement scores fluctuated, highlighting which livestreams resonated most with viewers, with some sessions achieving very high engagement percentages.
-- Cumulative views grew consistently, indicating steady audience growth and increased reach over time.
-- Week-over-week percentage growth calculations helped identify periods of rapid growth as well as slower engagement phases.
-- The combination of Excel and Python allowed for detailed tracking and visual storytelling, providing actionable insights to optimize future content.
+- TikTok Live views showed a **steady increase of approximately 15,000 total views** over 12 weeks, with weekly views peaking at over **4,400 views** in week 23.  
+- Week-over-week **percentage growth in views fluctuated widely**, with spikes reaching up to **482% growth** in some weeks, indicating rapid bursts of audience interest.  
+- Engagement scores (combining likes, comments, shares relative to views) reached highs of over **2,800% in some weeks**, demonstrating strong interaction during key livestreams.  
+- The cumulative views steadily rose, surpassing **3 million total views** by the end of the tracked period, showing consistent channel growth.  
+- Periods of slower growth or dips in engagement helped identify opportunities for content adjustment and strategy refinement.  
+- Combining Excel pivot tables and Python visualizations enabled a detailed, dynamic view of performance trends and actionable insights for optimizing live content.  
 
 ---
 
