@@ -46,6 +46,16 @@ Key challenges included file management and ensuring data was sorted chronologic
 
 ---
 
+## Key Insights and Summary of Findings 📈
+
+- TikTok Live views showed a steady upward trend from April through June 2025, with notable spikes on specific dates linked to popular content themes.
+- Engagement scores fluctuated, highlighting which livestreams resonated most with viewers, with some sessions achieving very high engagement percentages.
+- Cumulative views grew consistently, indicating steady audience growth and increased reach over time.
+- Week-over-week percentage growth calculations helped identify periods of rapid growth as well as slower engagement phases.
+- The combination of Excel and Python allowed for detailed tracking and visual storytelling, providing actionable insights to optimize future content.
+
+---
+
 ## 📈 Visual Insights
 
 - Viewership showed steady growth with spikes correlating to certain content themes or dates.  
@@ -57,8 +67,7 @@ Key challenges included file management and ensuring data was sorted chronologic
 ## 📂 Repository Contents
 
 - `TikTok_Raw_Data_Tracker Updated.xlsx`: Excel dataset with raw and processed metrics  
-- `TikTok_Live_Data_Analysis.ipynb`: Jupyter Notebook with Python code, analysis, and visualizations  
-- `views_over_time.png`, `engagement_over_time.png`, `cumulative_views.png`: Exported charts from Python  
+- `TikTok_Live_Data_Analysis.ipynb`: Jupyter Notebook with Python code, analysis, and visualizations    
 - `README.md`: This project overview and explanation
 
 ---
